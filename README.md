@@ -18,4 +18,18 @@ Calculate Key Metrics:
 
 •**Average Pizzas Per Order**: Calculate the average number of pizzas sold per order.
 
-• 
+Develop Insights Using SQL Queries:
+
+•**Hourly Trend for Total Pizzas Sold**: Analyze hourly trends of pizza sales to identify patterns or peak times.
+
+•**Weekly Trend for Total Orders**: Identify weekly patterns of order volumes across the year.
+
+•**Percentage of Sales by Pizza Category**: Understand the contribution of each pizza category to overall sales.
+
+•**Percentage of Sales by Pizza Size**: Analyze the preference trends for different pizza sizes.
+
+•**Total Pizzas Sold by Pizza Category**: Compare pizza categories based on total pizzas sold.
+
+•**Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders**: Identify high-performing pizzas based on revenue, quantity, and order frequency.
+
+•**Bottom 5 Worst Sellers by Revenue, Total Quantity, and Total Orders**: Detect underperforming pizzas to address potential improvement areas.
