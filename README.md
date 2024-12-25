@@ -33,3 +33,11 @@ Develop Insights Using SQL Queries:
   •**Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders**: Identify high-performing pizzas based on revenue, quantity, and order frequency.
 
   •**Bottom 5 Worst Sellers by Revenue, Total Quantity, and Total Orders**: Detect underperforming pizzas to address potential improvement areas.
+
+Tools and Technologies:
+
+•Excel
+
+•SQL
+
+•Microsoft SQL Server Management Studio(SSMS)
