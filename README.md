@@ -34,10 +34,10 @@ Develop Insights Using SQL Queries:
 
   •**Bottom 5 Worst Sellers by Revenue, Total Quantity, and Total Orders**: Detect underperforming pizzas to address potential improvement areas.
 
-Tools and Technologies:
+**Tools and Technologies**:
 
-•Excel
+  •Excel
 
-•SQL
+  •SQL
 
-•Microsoft SQL Server Management Studio(SSMS)
+  •Microsoft SQL Server Management Studio(SSMS)
